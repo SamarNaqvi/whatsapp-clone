@@ -1,0 +1,11 @@
+.backgroundImg {
+    background: linear-gradient(
+        to bottom right,
+        rgba(12, 42, 59, 0.5),
+        rgba(9, 3, 1, 0.5)
+      ),
+      url("./assets/warehouse.jpg") no-repeat fixed center;
+    height: 100vh;
+    background-size: cover;
+    width: 100vw;
+  }
